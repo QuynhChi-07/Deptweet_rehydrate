@@ -13,16 +13,6 @@ Tweet ID, Label (non-depressed, mild, moderate, severe), and Confidence Score. T
 | Severe                | 47    |
 
 ## Citation
-
-```bibtex
-@inproceedings{yourname2026confidence,
-  title={Model or Label? Confidence-Stratified Evaluation of the Mild--Moderate Boundary in Depression Severity Detection},
-  author={...},
-  booktitle={...},
-  year={2026}
-}
-```
-
 Please also cite the original datasets this work builds on:
 
 ```bibtex
